@@ -1,2 +1,2 @@
 # linear-systems-GUI
-GUI to find solute concentration across compartments of a chemical extraction purification process
+GUI to find solute concentration across compartments of a chemical extraction purification process. The user can adjust the input values for the starting solvent concentration along with the starting solute concentration and the solute concentrations are calculated using a system of linear equations. When button is clicked, solution and plot are shown in the output. Any errors from user inputs will be stated in the warning box.
